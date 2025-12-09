@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Cross-Compatable Hex Editor Analyzer
+Comment=Advanced cross-platform hex editor and malware analyzer
+Exec=python3 /absolute/path/to/HexEditor.py
+Icon=utilities-terminal
+Terminal=false
+Categories=Utility;Security;Development;
